@@ -1,0 +1,18 @@
+body {
+	background-image: url('../img/f2.jpg');
+}
+.card-header {
+	font-size: 23px;
+}
+.img1 {
+	margin: auto;
+	width: 100%;
+}
+.img3 {
+	margin: auto;
+	width: 30%;
+}
+.hola1 {
+	font-family: Arial Black;
+	font-size: 55px;
+}

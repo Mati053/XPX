@@ -1,0 +1,19 @@
+body {
+	background-image: url('../img/f1.jpg');*/
+}
+h1 {
+	font-family: Impact;
+	font-size: 35px;
+	text-align: center;
+	color: red;
+}
+p {
+	color: white;
+	font-family: Arial Black;
+	font-size: 20px;
+}
+.hola { 
+	margin: auto;
+	width: 100%;
+	padding: 0;
+	}
